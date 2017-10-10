@@ -91,6 +91,6 @@ c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSyst
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\bin\Microsoft.AI.WindowsServer.xml
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\bin\Microsoft.AI.Web.xml
-c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\Richard Iyama\Documents\Visual Studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache

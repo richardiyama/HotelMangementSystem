@@ -20,6 +20,35 @@ namespace HotelManagementSystem.Controllers
             return View();
         }
 
+        public ActionResult Team()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Gallery()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Services()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+
+        public ActionResult Rooms()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
